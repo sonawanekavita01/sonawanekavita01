@@ -16,12 +16,9 @@
 
 
 
-<img align="right" alt="gif 2" width="400" src="https://github.com/user-attachments/assets/db278ee5-5872-4cf7-a579-bdbc0bf465d6"/>
+ <img align="right" alt="gif 2" width="300" src="https://github.com/user-attachments/assets/db278ee5-5872-4cf7-a579-bdbc0bf465d6"/>
   
  
- 
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sonawanekavita01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
