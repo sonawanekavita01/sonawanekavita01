@@ -31,8 +31,8 @@
 - 🌱 Currently learning: **Machine Learning, Deep Learning, and Advanced Power BI**  
 - 💬 Ask me about: **Python, SQL, Power BI, Tableau, Data Science & AI**  
 - 📫 Reach me at: **sonawanekavita011@gmail.com**  
-- 👨‍💻 Projects: [GitHub Portfolio](https://github.com/sonawanekavita01)  
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1_xiuoOXsHpMGibsxIDZoNw3HhW5UmH-E/view?usp=drive_link)  
+- 👨‍💻 Projects: [GitHub Portfolio](https://github.com/sonawanekavita01?tab=repositories)  
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1f7lWhLCzFqRqUdDHbyy120cj_AtMZMA7/view?usp=drive_link)  
 
 ---
 
