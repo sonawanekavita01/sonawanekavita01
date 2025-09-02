@@ -25,7 +25,7 @@
 
 
 
-## 🔭 Work & Learning  
+## 🔍 Explore My Journey 
 - 🔭 Currently working on: **AI/ML projects & interactive dashboards**  
 - 👯 Looking to collaborate on: **Data Analytics, AI/ML, and Visualization projects**  
 - 🌱 Currently learning: **Machine Learning, Deep Learning, and Advanced Power BI**  
