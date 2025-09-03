@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Power BI • Python • SQL • Tableau • Excel | AI/ML Enthusiast</h3>
 
 🎯 Passionate about **Data Analytics, Visualization, and Machine Learning**.  
-💡 Skilled in **Power BI, Python, SQL, Tableau, Excel** with hands-on projects in **EDA, KPI reporting, AI/ML models, and dashboards**.  
+💡 Skilled in **Power BI, Python, SQL, Tableau, Excel,Looker Studio** with hands-on projects in **EDA, KPI reporting, AI/ML models, and dashboards**.  
 
 
 <p align="center">
