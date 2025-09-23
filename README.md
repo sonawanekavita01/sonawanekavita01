@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone👋, I'm Kavita Sonawane🧑‍🎓</h1>
+<h1 align="center">Hey Everyone👋, I'm Kavita Sonawane</h1>
 <h3 align="center">Data Analyst | Power BI • Python • SQL • Tableau • Excel | AI/ML Enthusiast</h3>
 
 🎯 Passionate about **Data Analytics, Visualization, and Machine Learning**.  
