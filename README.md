@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone👋, I'm Kavita Sonawane</h1>
-<h3 align="center">Data Analyst | Power BI • Python • SQL • Tableau • Excel | AI/ML Enthusiast</h3>
+<h2 align="center">Data Analyst | Power BI • Python • SQL • Tableau • Excel | AI/ML Enthusiast</h2>
 
 🎯 Passionate about **Data Analytics, Visualization, and Machine Learning**.  
 💡 Skilled in **Power BI, Python, SQL, Tableau, Excel,Looker Studio** with hands-on projects in **EDA, KPI reporting, AI/ML models, and dashboards**.  
