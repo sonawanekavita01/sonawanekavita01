@@ -6,9 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/sonawanekavita01">
-    <img src="https://img.shields.io/github/followers/sonawanekavita01?label=Follow&style=social" />
-  </a>
+  
   <a href="https://linkedin.com/in/kavita-sonawane-795920256/">
     <img src="https://img.shields.io/badge/LinkedIn-Kavita%20Sonawane-blue?logo=linkedin&style=flat-square" />
   </a>
