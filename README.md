@@ -16,7 +16,6 @@
 
 
 
- <img align="right" alt="gif 2" width="300" src="https://github.com/user-attachments/assets/db278ee5-5872-4cf7-a579-bdbc0bf465d6"/>
   
  
 <p align="left">
